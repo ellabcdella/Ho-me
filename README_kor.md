@@ -1,5 +1,5 @@
 # Java Swing Project
-**Ho-me (호미) / 식물재배상품 판매 통합 플랫폼👩‍🌾**
+**Ho-me(호미) 👩‍🌾 / 식물재배상품 판매 통합 플랫폼**
 
 [![Video Label](http://img.youtube.com/vi/d-W_qEYYTWM/0.jpg)](https://youtu.be/d-W_qEYYTWM)
 
