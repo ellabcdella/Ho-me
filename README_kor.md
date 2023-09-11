@@ -9,9 +9,11 @@
 * 이에 대응하여 식물재배 후 재테크를 할 수 있는 통합 플랫폼을 개발
 
 ## ⚙️ 개발 환경
+![windows10](https://img.shields.io/badge/windows10-0078D6.svg?&style=for-the-badge&logo=windows10&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ## ⏰ 프로젝트 기간
 * 2023.05.22. ~ 2023.06.02.
