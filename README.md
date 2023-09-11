@@ -1,6 +1,8 @@
 # Java Swing Project
 **Ho-me / Home Plant Cultivation Shop👩‍🌾**
 
+[![Video Label](http://img.youtube.com/vi/d-W_qEYYTWM/0.jpg)](https://youtu.be/d-W_qEYYTWM)
+
 ## 💻 Introduction
 * Recently, the number of people interested in small investments has increased due to high prices since COVID-19.
 * Among them, plant cultivation investment that can be made at home is emerging as a new investment product.
