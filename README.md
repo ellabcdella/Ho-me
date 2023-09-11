@@ -9,5 +9,5 @@
   
 > Functions
 * Sign-up & sign-in, plant cultivation investment info board, product details, shopping basket
-* payment, card easy payment registration, payment management, refund management, delivery management
-* marketplace board, plant cultivation garden rental provision function were implemented in Java Swing
+* Payment, card easy payment registration, payment management, refund management, delivery management
+* Marketplace board, plant cultivation garden rental provision function were implemented in Java Swing
