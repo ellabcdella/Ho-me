@@ -8,7 +8,7 @@
 * Among them, plant cultivation investment that can be made at home is emerging as a new investment product.
 * In response, we developed a shop that mediates sales after plant cultivation.
 
-## ⚙️ Project characteristics
+## ⚙️ Characteristics
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
