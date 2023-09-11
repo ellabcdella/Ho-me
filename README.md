@@ -1,4 +1,4 @@
-# Java Swing Project
+# Java Swing Team Project
 **Ho-me 👩‍🌾 / Home Plant Cultivation Shop**
 
 [![Video Label](http://img.youtube.com/vi/d-W_qEYYTWM/0.jpg)](https://youtu.be/d-W_qEYYTWM)
