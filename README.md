@@ -1,5 +1,5 @@
 # Java Swing Project
-**Home Plant Cultivation Shop👩‍🌾 / Ho-me**
+**Ho-me / Home Plant Cultivation Shop👩‍🌾**
 
 ## 👩‍💻 Project Introductions
 > Purpose of this project
