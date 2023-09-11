@@ -14,7 +14,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 ## ⏰ Time duration
-* Jul.31, 2023 ~ Aug.31, 2023
+* May.22, 2023 ~ Jun.2, 2023
 
 ## 📌 Functions
 * Sign-up & sign-in, plant cultivation investment info board, product details, shopping basket
@@ -23,3 +23,5 @@
 
 ## 👩‍💻 Roles
 * Created payment, card easy payment registration, payment management, refund management, delivery management functions
+* GUI design, DB design and deployment, automatic delivery registration PL/SQL trigger after order implementation
+* Presentation
