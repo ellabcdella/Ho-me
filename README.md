@@ -19,8 +19,8 @@
 * May.22, 2023 ~ Jun.2, 2023
 
 ## 📌 Functions
-* Sign-up & sign-in, plant cultivation investment info board, product details, shopping basket
-* Payment, card easy payment registration, payment management, refund management, delivery management
+* Sign-up & sign-in, plant cultivation investment info board, product details, product shopping basket
+* Easy Payment, card registration, payment management, refund management, delivery management
 * Marketplace board, plant cultivation garden rental provision function were implemented in Java Swing
 
 ## 👩‍💻 Roles
