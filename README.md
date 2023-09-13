@@ -24,6 +24,6 @@
 * Marketplace board, plant cultivation garden rental provision function were implemented in Java Swing
 
 ## 👩‍💻 Roles
-* Created payment, card easy payment registration, payment management, refund management, delivery management functions
+* Created easy Payment, card registration, payment management, refund management, delivery management functions
 * GUI design, DB design and deployment, automatic delivery registration PL/SQL trigger after order
 * Presentation
