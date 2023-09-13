@@ -2,7 +2,7 @@
 **Ho-me 👩‍🌾 / Home Plant Cultivation Shop**
 
 [![Video Label](http://img.youtube.com/vi/d-W_qEYYTWM/0.jpg)](https://youtu.be/d-W_qEYYTWM)
-<br/>Please refer to the video above for details.
+<br/>Please refer to the above video for details.
 
 ## 💻 Introduction
 * Recently, the number of people interested in small investments has increased due to high prices since COVID-19.
